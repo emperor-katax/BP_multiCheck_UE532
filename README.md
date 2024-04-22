@@ -20,23 +20,21 @@ This application: <b>
 > Spawn objects in a network game <b>
 
 > Using keys: 
-- E, R, Q -> shows problems in replication 
-- F -> shows correct method of replication
-- M and N -> test replicated variables <b>
+> - E, R, Q -> shows problems in replication 
+> - F -> shows correct method of replication
+> - M and N -> test replicated variables <b>
  
 > Blueprint only <b><b><b>
 
 
 Using:<b>
  
-Drag and Drop functionality<b>
+switch has authority blueprint node<b>
  
-Physic Handler<b>
- 
-Widget<b>
- 
-GameMode <b>
+actor replication<b>
 
-Impulse <b>
+variable replication<b>
  
-Collision handling </b><b><b>
+events running on server and multicast<b>
+ 
+gamemode </b><b><b>
