@@ -37,6 +37,6 @@ variable replication<b>
  
 events running on server and multicast<b>
 
-Player state and Player Id character`s replicated variables<b>
+PlayerState and PlayerId character`s replicated variables<b>
  
 gamemode </b><b><b>
